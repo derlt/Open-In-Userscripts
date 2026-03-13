@@ -3,9 +3,9 @@
 // @version      1.0.0
 // @author       nathandaven
 // @match        *://x.com/*
-// @downloadURL  https://github.com/nathandaven/Open-In-Live-Container/raw/refs/heads/main/open-in-twitter-live-container.user.js
-// @updateURL    https://github.com/nathandaven/Open-In-Live-Container/raw/refs/heads/main/open-in-twitter-live-container.user.js
-// @homepage     https://github.com/nathandaven/Open-In-Apollo-Live-Container/tree/main
+// @downloadURL  https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-twitter-live-container.user.js
+// @updateURL    https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-twitter-live-container.user.js
+// @homepage     https://github.com/derlt/Open-In-Userscripts
 
 // ==/UserScript==
 
