@@ -200,6 +200,9 @@
 // @match        *://*.google.cat/*
 // @run-at       document_start
 // @grant        none
+// @downloadURL  https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-hack.user.js
+// @updateURL    https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-hack.user.js
+// @homepage     https://github.com/derlt/Open-In-Userscripts
 // ==/UserScript==
 
 (function() {
