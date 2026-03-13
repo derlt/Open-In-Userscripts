@@ -3,9 +3,9 @@
 // @version      1.0.0
 // @author       aazz18 + nathandaven
 // @match        *://*.spotify.com/*
-// @downloadURL  https://github.com/aazz180/Open-In-Live-Container/raw/refs/heads/main/open-in-spotify-live-container.user.js
-// @updateURL    https://github.com/aazz180/Open-In-Live-Container/raw/refs/heads/main/open-in-spotify-live-container.user.js
-// @homepage     https://github.com/aazz180/Open-In-Apollo-Live-Container/tree/main
+// @downloadURL  https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-spotify-live-container.user.js
+// @updateURL    https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-spotify-live-container.user.js
+// @homepage     https://github.com/derlt/Open-In-Userscripts
 // ==/UserScript==
 
 // encode string to base64 for live container
