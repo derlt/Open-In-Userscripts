@@ -3,9 +3,9 @@
 // @version      1.0.0
 // @author       nathandaven
 // @match        *://*.reddit.com/*
-// @downloadURL  https://github.com/nathandaven/Open-In-Apollo-Live-Container/raw/525f547ed2cbca1d8edaeee8a9a8c52715521224/open-in-apollo-live-container.user.js
-// @updateURL    https://github.com/nathandaven/Open-In-Apollo-Live-Container/raw/525f547ed2cbca1d8edaeee8a9a8c52715521224/open-in-apollo-live-container.user.js
-// @homepage     https://github.com/nathandaven/Open-In-Apollo-Live-Container/tree/main
+// @downloadURL  https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-apollo-live-container.user.js
+// @updateURL    https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-apollo-live-container.user.js
+// @homepage     https://github.com/derlt/Open-In-Userscripts
 // ==/UserScript==
 
 // need to encode the string to base64 for live container link to work
