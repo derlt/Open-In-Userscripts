@@ -195,9 +195,9 @@
 // @match        *://*.google.co.zm/*
 // @match        *://*.google.co.zw/*
 // @match        *://*.google.cat/*
-// @downloadURL  https://gist.github.com/AnthonyGress/c04327abc6ff3bc45871468743f00341/raw/open-in-apollo.user.js
-// @updateURL    https://gist.github.com/AnthonyGress/c04327abc6ff3bc45871468743f00341/raw/open-in-apollo.user.js
-// @homepage     https://github.com/AnthonyGress/Open-In-Apollo/edit/main/open-in-apollo.user.js
+// @downloadURL  https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-apollo.user.js
+// @updateURL    https://github.com/derlt/Open-In-Userscripts/raw/refs/heads/main/open-in-apollo.user.js
+// @homepage     https://github.com/derlt/Open-In-Userscripts
 // ==/UserScript==
 
 // Note: Some search engines like DDG and Bing index redditmedia.com links
